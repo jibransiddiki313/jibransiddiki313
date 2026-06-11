@@ -49,15 +49,14 @@ Hi, I'm Jibran Siddiki 👋
 
 ---
 
-⚡ *Self-taught DevOps Engineer from Maharashtra, building real-world cloud infrastructure.*13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ *Self-taught DevOps Engineer from Maharashtra, building real-world cloud infrastructure.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently Looking for a opportunity .
 - 🌱 I’m currently learning AWS (SAA-O2)
 - 🤔 I’m looking for help with AWS Job 
 - 💬 Ask me about MY Project or contribute on my profile
 - 📫 How to reach me: https://www.linkedin.com/in/jibran-siddiki-411733230?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- 😄 Pronouns: mr
-- ⚡ Fun fact: Cricket
+- 😄 Pronouns: mr JIBRAN
 -->
